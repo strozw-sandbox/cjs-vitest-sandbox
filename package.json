@@ -1,7 +1,7 @@
 {
   "name": "cjs-vitest-sandbox",
 	"private": true,
-  "description": "Investigating the feasibility of using Vitest in a commonjs project",
+  "description": "Tests whether vitest can be used in a commonjs project",
   "scripts": {
     "test": "vitest"
   },

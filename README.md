@@ -1,7 +1,7 @@
 
 ## Purpose
 
-Investigating the feasibility of using Vitest in a project with `"type": "commonjs"`
+Tests whether vitest can be used in a commonjs project.
 
 ## How 
 

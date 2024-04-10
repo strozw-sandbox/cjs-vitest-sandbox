@@ -1,14 +1,13 @@
 {
   "name": "cjs-vitest-sandbox",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+	"private": true,
+  "description": "Investigating the feasibility of using Vitest in a commonjs project",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["sandbox", "test", "vitest", "commonjs"],
+  "author": "strozw",
+  "license": "UNLICENSED",
   "type": "commonjs",
   "devDependencies": {
     "vitest": "^1.4.0"
